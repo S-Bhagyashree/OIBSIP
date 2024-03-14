@@ -4,6 +4,10 @@ Requirements for all:
 
 (all are pre-defined libraries in python no installation required)
 
+Required Installations(for Password Manager):
+(using pip install)
+1. pyperclip
+
 Required Installations(for Voice Assistant):
 (using pip install)
 1. pipwin; pyaudio
